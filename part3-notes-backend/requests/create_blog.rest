@@ -1,0 +1,6 @@
+POST http://localhost:3003/api/blogs/ Content-Type: application/json Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5c2VybmFtZSI6Im1sdXVra2FpIiwiaW
+
+{
+    "title": "USER PR","author": "tester","url": "http://testi.fi","likes": 22
+
+}
